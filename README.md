@@ -7,7 +7,7 @@ At the end of the training, the following values will be displayed:
 
 ![alt text](https://github.com/nishantuzir/neural-network-based-weighted-blending-mechanism/blob/master/output.png)
 
-PS: The module returns the neural network model, which inturn can be used to test on a given dataset.
+PS: The first value is that of confusion matrix, rest are self explanatory. The module returns the neural network model, which inturn can be used to test on a given dataset.
 
 USAGE:
 ------
