@@ -10,6 +10,8 @@ precision
 recall
 f1 score
 
+![alt text](https://github.com/nishantuzir/neural-network-based-weighted-blending-mechanism/blob/master/output.png)
+
 PS: The module returns the neural network model, which inturn can be used to test on a given dataset.
 
 USAGE:
