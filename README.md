@@ -4,11 +4,6 @@ This is a weighted blending machine implemented using a neural network. The adva
 OUTPUT FORMAT:
 --------------
 At the end of the training, the following values will be displayed:
-confusion matrix
-accuracy
-precision
-recall
-f1 score
 
 ![alt text](https://github.com/nishantuzir/neural-network-based-weighted-blending-mechanism/blob/master/output.png)
 
