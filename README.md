@@ -11,19 +11,21 @@ PS: The first value is that of confusion matrix, rest are self explanatory. The 
 
 USAGE:
 ------
-$ python3 ./blending.py -t ./training.csv -s 0 -e 12   
-OR    
-$ python3 ./blending.py --train ./training.csv --start 0 --end 12
+    $ python3 ./blending.py -t ./training.csv -s 0 -e 12   
+    
+OR  
+
+    $ python3 ./blending.py --train ./training.csv --start 0 --end 12
 
 PS: --start and --end values should integer and not float!
 
 if you need help, the following command would be useful:
 
-$ python3 ./janf.py -h
+    $ python3 ./janf.py -h
 
 DEPENDENCY:
 -----------
-python3.x
+* python3.x
 
 PACKAGES:
 ---------
@@ -31,8 +33,8 @@ The packages required for running the module are provided in the 'requirements.t
 
 The following python packages will be already be installed with the python3.x distibutions, if not, kindly install them:
 
-1.sys
+* sys
 
-2.argparse
+* argparse
 
-3.warnings
+* warnings
